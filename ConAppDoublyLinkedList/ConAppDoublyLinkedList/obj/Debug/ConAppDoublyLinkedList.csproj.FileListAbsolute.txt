@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\obj\Debug\ConAppDoublyLinkedList.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\obj\Debug\ConAppDoublyLinkedList.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\obj\Debug\ConAppDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\bin\Debug\ConAppDoublyLinkedList.exe.config
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\bin\Debug\ConAppDoublyLinkedList.exe
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\bin\Debug\ConAppDoublyLinkedList.pdb
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\obj\Debug\ConAppDoublyLinkedList.exe
+D:\Mphasis\Live Session\Day10\ConAppDoublyLinkedList\ConAppDoublyLinkedList\obj\Debug\ConAppDoublyLinkedList.pdb

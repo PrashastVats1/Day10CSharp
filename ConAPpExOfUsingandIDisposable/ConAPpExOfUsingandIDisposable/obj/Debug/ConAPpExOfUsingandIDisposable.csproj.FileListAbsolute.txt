@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\obj\Debug\ConAPpExOfUsingandIDisposable.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\obj\Debug\ConAPpExOfUsingandIDisposable.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\obj\Debug\ConAPpExOfUsingandIDisposable.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\bin\Debug\ConAPpExOfUsingandIDisposable.exe.config
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\bin\Debug\ConAPpExOfUsingandIDisposable.exe
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\bin\Debug\ConAPpExOfUsingandIDisposable.pdb
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\obj\Debug\ConAPpExOfUsingandIDisposable.exe
+D:\Mphasis\Live Session\Day10\ConAPpExOfUsingandIDisposable\ConAPpExOfUsingandIDisposable\obj\Debug\ConAPpExOfUsingandIDisposable.pdb
